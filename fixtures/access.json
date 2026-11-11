@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "origins": [
+    "https://museum.example"
+  ],
+  "paths": [
+    "/start",
+    "/items/"
+  ],
+  "tracking": [
+    "utm_source"
+  ],
+  "semantic_query": [
+    "type"
+  ],
+  "budget": 20,
+  "depth": 4,
+  "updates": [
+    {
+      "version": 2,
+      "revoke_path": "/items/a"
+    }
+  ]
+}

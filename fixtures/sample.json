@@ -1,0 +1,4 @@
+{
+  "url": "https://museum.example/items/",
+  "html": "<a href=\"a?type=scan#top\">扫描件</a><a href=\"../about\">关于</a><a href=\"mailto:x@example.invalid\">联系</a>"
+}

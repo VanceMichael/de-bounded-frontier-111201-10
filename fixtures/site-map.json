@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "/start": [
+      "/calendar?month=1",
+      "/items/a",
+      "/items/a?utm_source=x"
+    ],
+    "/calendar?month=1": [
+      "/calendar?month=2",
+      "/start"
+    ],
+    "/items/a": [
+      "https://outside.example/blocked"
+    ]
+  },
+  "redirects": {
+    "/redirect": "https://outside.example/blocked"
+  }
+}
